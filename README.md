@@ -46,4 +46,4 @@ Este repositorio contiene los desafíos de **lógica de programación en JavaScr
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/Daiana074/nombre-del-repo.git
+git clone https://github.com/Daiana074/7DaysOfCode.git
